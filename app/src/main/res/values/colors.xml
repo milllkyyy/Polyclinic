@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="table_header">#E0E0E0</color>
+    <color name="table_cell_free">#4CAF50</color>
+    <color name="table_cell_busy">#F44336</color>
+    <color name="table_cell_text">#FFFFFF</color>
+</resources>
